@@ -10,23 +10,23 @@ At Zaid.Digital, we are passionate about creating high-quality software solution
 
 ### Mobile Application Development
 
-- ![Flutter](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png | width=100) Flutter
-- ![React Native](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg | width=100) React Native
-- ![Android](https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg | width=100) Android
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="100"> Flutter
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="100"> React Native
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android" width="100"> Android
 
 ### Web Application Development
 
-- ![Angular](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg | width=100) Angular
-- ![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg | width=100) Laravel
-- ![React.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg | width=100) React.js
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="100"> Angular
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="100"> Laravel
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="100"> React.js
 
 ### Backend Development
 
-- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg | width=100) Node.js
-- ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg | width=100) PHP
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg | width=100) Python
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="100"> Node.js
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="100"> PHP
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100"> Python
 
-Feel free to explore our repositories and browse through the source code.
+
 
 ## Getting Started
 
