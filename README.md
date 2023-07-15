@@ -10,21 +10,22 @@ At Zaid.Digital, we are passionate about creating high-quality software solution
 
 ### Mobile Application Development
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="10"> Flutter
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="10"> React Native
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android" width="10"> Android
+- [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)](https://flutter.dev)
+- [![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?logo=React&logoColor=white)](https://reactnative.dev)
+- [![Android](https://img.shields.io/badge/Android-%233DDC84.svg?logo=Android&logoColor=white)](https://developer.android.com)
+
 
 ### Web Application Development
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="10"> Angular
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="10"> Laravel
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="10"> React.js
+- [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=Angular&logoColor=white)](https://angular.io)
+- [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=Laravel&logoColor=white)](https://laravel.com)
+- [![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=React&logoColor=white)](https://reactjs.org)
 
 ### Backend Development
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="10"> Node.js
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="10"> PHP
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="10"> Python
+- [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=Node.js&logoColor=white)](https://nodejs.org)
+- [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=PHP&logoColor=white)](https://www.php.net)
+- [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)](https://www.python.org)
 
 
 
